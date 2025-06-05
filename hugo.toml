@@ -5,7 +5,7 @@ theme = "PaperMod"
 
 [params]
   env = "production"
-  description = "Developing robust measures for decision maing and accountability."
+  description = "Developing robust measures for decision making and accountability."
   author = ""
   defaultTheme = "light"
   disableThemeToggle = true

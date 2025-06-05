@@ -4,4 +4,4 @@
 
 [build.environment]
   HUGO_VERSION = "0.119.3"  # or latest stable version
-  HUGO_EXTENDED = true      # needed for some themes
+  HUGO_EXTENDED = "true"      # needed for some themes

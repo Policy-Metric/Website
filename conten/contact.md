@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 draft: false
+layout = "page"
 output: ["HTML", "RSS"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 draft: false
+output: ["HTML", "RSS"]
 ---
 
 # Get in Touch

@@ -34,7 +34,7 @@ Throughout his career, he has maintained a strong commitment to statistical stan
 
 Now a Research Associate at the Economic Statistics Centre of Excellence (ESCoE), he is working on a project exploring methods for improving coherence and balance in the national accounts framework — an area where his technical expertise and real-world experience make him uniquely qualified.
 
-David's experience covers multiple aspects of the public sector including councils, police and fire services housing. He has also worked witht he third sector and been a charity trustee and treasurer. 
+David's experience covers multiple aspects of the public sector including councils, police and fire services and housing. He has also worked witht the third sector and been a charity trustee and treasurer. 
 
 Away from official statistics, David is currently exploring different use cases for generative AI — including as a personal trainer, cookery teacher, and thinking partner for curiosity-driven conversations.
 
